@@ -41,7 +41,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:0 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Lokal FTA", Indosiar HD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=000e4be121ffecc35dac4fbafc9015533cbe473fc058697fea53a7d20ee7e2ad
+https://home-tv.web.id/dinda/jangandijual.m3u8?channel=usee-indosiar
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TransTV" tvg-logo="https://x1.cdn.broiptv.online/img/transtv.png" group-title="Lokal FTA", TransTV backup
