@@ -8,7 +8,7 @@ https://archive.org/download/MurotalMR/001.mp3
 https://etslive-2-vidio-com.akamaized.net/exp=1614736828~acl=/hls-p/ingest_875_*/*~hmac=11b29764d46a060cb4c898ab2a776493aaa261fb825a0644ad78afb820ca6c29/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NET" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Lokal FTA", Net HD
-https://home-tv.web.id/dinda/jangandijual.m3u8?channel=usee-net
+https://cdn09jtedge.useetv.com/joss/15/net/chunklist_w1099102227_b1344100_sleng.m3u8?enc=ZbiPTMHiQIvLQ2w9M-3gLg&uid=MDQzMjI2NWFlM2VkM2JhZTNmNTg4NmM3NWZkY2VkMTI=&exp=1614743413
 
 #EXTINF:-1 tvg-id="" tvg-name="antv" tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Lokal FTA", Antv Back up 
 http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
