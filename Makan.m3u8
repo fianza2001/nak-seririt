@@ -5,7 +5,7 @@
 https://archive.org/download/MurotalMR/001.mp3
 
 #EXTINF:0 tvg-id="" tvg-name="NET" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Lokal FTA", Net Tv back up
-https://etslive-2-vidio-com.akamaized.net/exp=1614736828~acl=/hls-p/ingest_875_*/*~hmac=11b29764d46a060cb4c898ab2a776493aaa261fb825a0644ad78afb820ca6c29/hls-p/ingest_875_720p/index.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NET" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Lokal FTA", Net HD
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
@@ -23,26 +23,26 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="Lokal FTA",RCTI SD
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal FTA", MNC HD
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal FTA", MNC SD
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal FTA",GLOBAL TV HD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal FTA",GLOBAL TV SD
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Lokal FTA", Indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:0 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Lokal FTA", Indosiar HD
-https://home-tv.web.id/dinda/jangandijual.m3u8?channel=usee-indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TransTV" tvg-logo="https://x1.cdn.broiptv.online/img/transtv.png" group-title="Lokal FTA", TransTV backup
@@ -58,7 +58,7 @@ http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvye
 http://video.detik.com:80/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLxvHLvD/Tv-One-logo-2010.png" group-title="Lokal FTA",Tv One backup
-https://delivery.macan.tv/stream/id_tvone/playlist.m3u8?token=rvsx2&v=20200807
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLxvHLvD/Tv-One-logo-2010.png" group-title="Lokal FTA",Tv One HD
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
