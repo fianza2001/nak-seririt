@@ -17,7 +17,7 @@ http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s
 http://rr2.dens.tv:80/s/s07/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=QDRPJIL23VPBQH5IHQ49CZBJZESTACZ7&chname=antv
 
 #EXTINF:-1 tvg-id="" tvg-name="antv" tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Lokal FTA", Antv HD 2
-http://gratis..com/play/GRATIS@broiptv.online/92504415/A7pq57dO/pratensis/antv_pratensis/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="Lokal FTA",RCTI HD
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
