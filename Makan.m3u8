@@ -1,598 +1,161 @@
 #EXTM3U
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_ruangtrampil_big.png?v=1",Ruang Trampil
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_useephoto_big.png?v=1",Usee Photo
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e8265268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13",Usee Prime
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_tvri_big.png?v=1",TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",Indosiar
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.15",RRI NET
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.15",InsertX
-https://delivery.macan.network/stream/id_insert/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?v=1.1",Nusantara TV xxxxx
-https://v6.siar.us/nusantaratv/live/chunks.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1569758602_b744100_sleng.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1561775419_b744100_sleng.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13",ANTARA
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV
-https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13",TV Edukasi
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_ochannel_big.png?v=1",O Channel
-http://skyzu.xp3.biz/vidio/ochannel.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_utamitv_big.png?v=1",Utami TV xxxxx
-https://goldenlivektv.com/Live/Khoerul_Television.m3u8?id=utamitv
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_indonesiana_big.png?v=1",Indonesiana TV
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png",TVONE
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13",JAK TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13",Kompas TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13",RTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13",BALI TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13",DAAITV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13",NET
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_inews_big.png",iNews
-https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/mDth17h5/RCTI.png",RCTI
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/nhgL8yCX/Mnctv.png",MNCTV
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/MTQq85nq/GTV-LOGO.png",GTV
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png?v=1",MNC News
-https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png",Champions TV 1
-http://skyzu.xp3.biz/vidio/championstv1.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png",Champions TV 2
-http://skyzu.xp3.biz/vidio/championstv2.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png",Fox Sports 1
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png",Fox Sports 2
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png",Fox Sports 3
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.15",NBA TV
-http://iptv12k.com:35461/8022022301/468985/942
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.15",eGG Network
-http://rr.dens.tv/h/h22/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_horizonsport_big.png?v=1",Horizon Sports
-http://tvku.my.id/api/useehls.m3u8?id=horizonsport
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_useesport_big.png?v=1",Usee Sports
-http://tvku.my.id/api/useehls.m3u8?id=useesport
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_useesports2_big.png?v=1",Usee Sports 2
-http://tvku.my.id/api/useehls.m3u8?id=useesport2
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.15",beIN Sports 1
-https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.15",beIN Sports 3
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png?v=1",SPOTV
-https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png?v=1",SPOTV 2
-https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png?v=1",HABER GLOBAL TV
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1646502094_b384000_sleng.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w281762296_b384000_sleng.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png?v=1",SEA Today
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png",Bloomberg
-http://rr1.dens.tv/h/h03/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://images.useetv.com/logo_idx_big.png",IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13",DW
-https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13",France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.15",Euronews
-https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/pimages/logo_cnninternational_big.png?v=1",CNN International
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png",TRT World
-https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png",CNBC Asia
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Al Jazeera
-https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/pimages/logo_newsasia_big.png?v=1",CNA
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_big.png?v=1",My Family Channel
-http://rr.dens.tv/h/h194/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia
-http://rr.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema
-http://rr.dens.tv/h/h99/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik
-https://delivery.macan.network/stream/flik/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png?v=1",Paramount
-https://delivery.macan.network/stream/paramount/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
-https://delivery.macan.network/stream/bioskopindonesia/playlist.m3u8?token=0t348&v=20200807
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png?v=1",HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_hitsmovie_big.png?v=1",HITS Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_thrill_big.png?v=1",Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_cinemaworld_big.png?v=1",Cinema World
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_starchinesemovies_big.png?v=1",STAR Chinese Movies
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png",Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_celestialmovie_big.png?v=1",Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_tvnmovies_big.png?v=1",tvN Movies
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png?v=1",Galaxy
-https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png?v=1",Galaxy Premium
-https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_imc_big.png?v=1",IMC
-https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
-http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png?v=1",My Kidz
-http://210.210.155.35/session/21c6b7ca-a4ad-11ec-8c65-b82a72d63267/uq2663/h/h191/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_mentaritv_big.png?v=1",Mentari TV
-http://tvn.x10.bz/xchannel/master-22.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png",DreamWorks
-https://delivery.macan.network/stream/dreamworks_en/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png",Da Vinci Learning
-https://delivery.macan.network/stream/davinci/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png"Dunia Anak
-https://delivery.macan.network/stream/duniaanak/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_babyfirst_big.png?v=1",Baby First
-https://delivery.macan.network/stream/babyfirst/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png?v=1",Horee
-https://delivery.macan.network/stream/horee/playlist.m3u8?token=0t348&v=20200807
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_nickelodeon_big.png?v=1",Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_nickjr_big.png?v=1",Nick Jr.
-https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_boomerang_big.png?v=1",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_cartoonnetwork_big.png?v=1",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_techstorm_big.png?v=1",Techstorm
-http://tvku.my.id/api/useehls.m3u8?id=techstorm
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_lingua_big.png?v=1",Lingua
-http://tvku.my.id/api/useehls.m3u8?id=lingua
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_pandatv_big.png?v=1",Panda TV
-http://tvku.my.id/api/useehls.m3u8?id=pandatv
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_natgeo_big.png?v=1",National Geographic
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_natgeowild_big.png?v=1",Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_discovery_big.png?v=1",Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_crimeinvestigation_big.png?v=1",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png",CGTN
-https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_wakuwaku_big.png?v=1",Waku Waku Japan
-http://nontonbola.my.id/hustv/wakuwaku.m3u8?punyanya=gasss
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_lifetime_big.png?v=1",Lifetime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_arirang_big.png?v=1",Arirang
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_kix_big.png?v=1",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_tvn_big.png?v=1",tvN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png?v=1",Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_history_big.png?v=1",History
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_nhkworldpremium_big.png?v=1",NHK World Premium
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.useetv.com/pimages/logo_sone_big.png?v=1",ONE
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13",TV MUI
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" , [CODAY] SCTV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" , [CODAY] ANTV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" , [CODAY] Indosiar _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" , [CODAY] NET TV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" , [CODAY] TVOne _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" , [CODAY] TRANS TV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" , [CODAY] Trans7 _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/SxXl0u9ZB4a2sj63W-PaDtqmMNA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" , [CODAY] News Room _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" , [CODAY] Metro TV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0qrOZySm_gYRMK5VNsh9RKQAzzc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" , [CODAY] Sapa Indonesia Malam _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/x156SOehZQFQ2M8vRTKTdwWVJaI=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" , [CODAY] TVRI _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/zO1gWfxmkxD897jTbvQ7T7Qs_tw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/4239/riko-the-series-e94e69.jpg" , [CODAY] Riko The Series _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uzRqOU9N2dIrniO-0LJpDkbBUEk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" , [CODAY] Connect 360 _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="" group-title=" , OFF!
+http://hi.hi-back.masuk.web.id/c.m3u8?coday=test
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uVFSoTESS5e1aejpa34oI2a8a_g=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" , [CODAY] OShop _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" , [CODAY] MUSICA _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/J2XyRjB9l6ZpDQGkdWPBSYn1-5s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8241/rans-channel-2a6db6.jpg" , [CODAY] RANS Channel _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/z2gl2uUHI4OzdAWuUYEruLNzux4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" , [CODAY] Magna TV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f0b76267fbe12b936bd65e203dc675c1446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" , [CODAY] Aku Cinta Indonesia _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/8Uruoktf9WtjEmoF2vFgyuC9paM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" , [CODAY] 1. Murotal 2. Durdek Hablumminnannas _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/oXhQvaqM2SJm6rogUAet2RJ0qj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-20fc6f.jpg" , [CODAY] Newsroom Tokyo _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/IQFqKIbeyevKjC8dXu8FXht94HQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg" , [CODAY] DW News _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/D1OrDJQmT6WqfzeDFHGAQoUbJ68=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" , [CODAY] TV Tempo _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=5d188b044333b4c62676e0d4f53dade7446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" , [CODAY] NCC TV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lx7oUbYJydZuOl0kpvxEbnTzT6o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" , [CODAY] Halo Indonesia _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/z4x2PkBTzTivB-VIK84936zZZVU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" , [CODAY] Nusantara Petang _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/zFF27-zkkhoh0pah3JqUjG8ItDM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" , [CODAY] Adzan \u0026 Sholat Magrib Dari Masjid Istiqlal Live + Mengetuk Pintu Hati 2021 _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" , [CODAY] Al Quran Al Kareem TV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/hoS6Jo9rM8wie723mTleODvZjCo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg" , [CODAY] Eksposisi Mandarin _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" , Ruang Trampil _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" , Usee Photo _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e8265268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" , UseePrime _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13" , TVRI _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_big1.png?v=2.0.0.15https://images.useetv.com/logo_jitv_big.png?v=2.0.0.13https://images.useetv.com/logo_kompastv_big.png?v=2.0.0.13" , Indosiar _USEETVJITV _USEETVKompas TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=2.0.0.13" , Net. _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13" , Rajawali TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" , RRI NET _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" , SCTV _USEETVTrans7 _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indikids_big.png?v=2.0.0.13https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13" , IndiKids TV _USEETVTransTV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" , Antara _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" , Bali TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" , Berita Satu _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" , JakTV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" , JTV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" , TV Edukasi _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" , Daai TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_insert_big1.png?v=2.0.0.13https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" , Insert _USEETVNusantara TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.pnghttps://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" , My Kids _USEETVChinese Drama _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" , CGTN Documentary _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_big.png" , Arirang _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_big1.png?v=2.0.0.13" , CCTV4 _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_big.png?v=2.0.0.13" , nhk world Japan _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvnmovies_big.pnghttps://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" , TVN MoviesPrambors _USEETV
+https://cdn10jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=7vp3WrNsRb64uzUa33mjRQ&uid=&expp=1652711075
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_big.png?v=1" , SEA Today _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" , Metro TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_big.png" , IDX _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" , DW (English) _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" , France 24 _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png?coday" , TRT World _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" , Euronews _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" , MUI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13",TV 9
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" , TV9 NU
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13",U Channel
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" , UChannel
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13",AlQuran Kareem
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" , AlQuran Kareem
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_tawaftv_big.png",Tawaf TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" , Tawaf TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13",MQTV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" , MQTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13",MTATV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" , MTATV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13",Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" , Muhammadiyah TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",Rodja TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" , Rodja TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
-
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",RODA
-http://162.12.215.254/Data/Movies/Hollywood/2020/1917%202019%20Eng%20720p%20WEB%20HDRip%20900Mb%20ESub%20x264/1917%202019%20Eng%20720p%20WEB%20HDRip%20900Mb%20ESub%20x264.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",2
-http://162.12.215.254/Data/Movies/Hollywood/2020/24%20Little%20Hours%20(2020)%20720p%20WEB-DL%20525MB/24%20Little%20Hours%20(2020)%20720p%20WEB-DL%20525MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",2
-http://162.12.215.254/Data/Movies/Hollywood/2020/21%20Bridges%20(2019)%20720p%20HDRip%20R6%20600MB/21%20Bridges%20%282019%29%20720p%20HDRip%20R6%20600MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",3
-http://162.12.215.254/Data/Movies/Hollywood/2020/7500%20(2019)%20720p%20BluRay%20x264%20750MB./7500%20(2019)%20720p%20BluRay%20x264%20750MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",4
-http://162.12.215.254/Data/Movies/Hollywood/2020/A%20Fall%20from%20Grace%20(2020)%20720p%20WEB-DL%20750MB/A%20Fall%20from%20Grace%20(2020)%20720p%20WEB-DL%20750MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",5
-http://162.12.215.254/Data/Movies/Hollywood/2020/Above%20the%20Shadows%20(2019)%20English%20720p%20BRRip%20700MB/Above%20the%20Shadows%20(2019)%20English%20720p%20BRRip%20700MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",7
-http://162.12.215.254/Data/Movies/Hollywood/2020/A%20Serial%20Killer%E2%80%99s%20Guide%20to%20Life%20(2019)%20720p%20WEB-DL%20500MB/A%20Serial%20Killer%E2%80%99s%20Guide%20to%20Life%20(2019)%20720p%20WEB-DL%20500MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",8
-http://162.12.215.254/Data/Movies/Hollywood/2020/Agramon's%20Gate%20(2020)%20English%20720p%20HDRip%20800MB%20ESubs/Agramon's%20Gate%20(2020)%20English%20720p%20HDRip%20800MB%20ESubs.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",9
-http://162.12.215.254/Data/Movies/Hollywood/2020/Ana%20(2020)/Ana.2019.WEB-DL.x264-FGT.mp4
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",10
-http://162.12.215.254/Data/Movies/Hollywood/2020/Ancestral%20World%202020%20English%20%20720p%20HDRip%20800MB/Ancestral%20World%202020%20English%20%20720p%20HDRip%20800MB%20(1).mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",11
-http://162.12.215.254/Data/Movies/Hollywood/2020/Adventure%20Force%205%20(2019)%20English%20Movie%20720p%20HDRip%20600MB/Adventure%20Force%205%20(2019)%20English%20Movie%20720p%20HDRip%20600MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",12
-http://162.12.215.254/Data/Movies/Hollywood/2020/Angels%20Fallen%20(2020)%20720p%20WEB-DL%20575MB/Angels%20Fallen%20(2020)%20720p%20WEB-DL%20575MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",13
-http://162.12.215.254/Data/Movies/Hollywood/2020/Antebellum%20(2020)%20English%20720p%20WEB-DL%20x264%20ESubs/Antebellum%20(2020)%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",14
-http://162.12.215.254/Data/Movies/Hollywood/2020/Attraction%202%20Invasion%202019%20720pBRRip%201.3GB./Attraction%202%20Invasion%202019%20720pBRRip%201.3GB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",15
-http://162.12.215.254/Data/Movies/Hollywood/2020/Arthur%20%26%20Merlin%3A%20Knights%20of%20Camelot%20(2020)%20720p%20HDRip%20800MB/Arthur%20%26%20Merlin%3A%20Knights%20of%20Camelot%20(2020)%20720p%20HDRip%20800MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",16
-http://162.12.215.254/Data/Movies/Hollywood/2020/Bad%20Boys%20for%20Life%20(2020)%20720p%20HDRip%20940MB/Bad%20Boys%20for%20Life%20(2020)%20720p%20HDRip%20940MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",17
-http://162.12.215.254/Data/Movies/Hollywood/2020/Ava%202020%20Englis%20720p%20WEB-DL%20x264%20ESubs/Ava%202020%20Englis%20720p%20WEB-DL%20x264%20ESubs.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",18
-http://162.12.215.254/Data/Movies/Hollywood/2020/Birds%20of%20Prey%202020%20English%20720p%20HDCAM%20900MB/Birds%20of%20Prey%202020%20English%20720p%20HDCAM%20900MB.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",19
-http://162.12.215.254/Data/Movies/Hollywood/2020/Bloodhound%20(2020)/Bloodhound.2020.1080p.WEBRip.x264-RARBG.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Bloodshot%20(2020)%20English%20720p%20WEB-DL%20x264%20ESubs./Bloodshot%20(2020)%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",20
-http://162.12.215.254/Data/Movies/Hollywood/2020/Boss%20Level%20(2020)%20English%20720p%20WEB-DL%20x264/Boss%20Level%20(2020)%20English%20720p%20WEB-DL%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Before%20the%20Fire%202020%20English%20720p%20WEB-DL%20x264/Before%20the%20Fire%202020%20English%20720p%20WEB-DL%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Becky%20(2020)%20720p%20WEBRip%20x264900MB/Becky%20(2020)%20720p%20WEBRip%20x264900MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Bloodhound%20(2020)%20English%20720p%20HDRip/Bloodhound%20(2020)%20English%20720p%20HDRip.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Cats%20(2019)%20English%20720p%20HDRip%20900MB/Cats%20(2019)%20English%20720p%20HDRip%20900MB%20KSubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Come%20Away%202020%20English%20720p%20WEB-DL%20x264/Come%20Away%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Bulletproof%202%20(2020)/Bulletproof%202.2019.DVDRip.XviD.AC3-EVO%5BEtMovies%5D.avi
-http://162.12.215.254/Data/Movies/Hollywood/2020/Covenant%20(2018)%20HDRip%20720p%20800MB%20x264/Covenant%20(2018)%20HDRip%20720p%20800MB%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Disturbing%20the%20Peace%202020%20DL%20720p%20HDRip/Disturbing%20the%20Peace%202020%20DL%20720p%20HDRip.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Cupid%20(2020)%20English%20720p%20WEB-DL%20800MB/Cupid%20(2020)%20English%20720p%20WEB-DL%20800MB%20x26.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Dark%20Waters%20(2019)%20720p%20HDRip%20800MB/Dark%20Waters%20(2019)%20720p%20HDRip%20800MB%20ESub.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Dolittle%20(2020)%20720p%20HDCAM%20900MB/Dolittle%20(2020)%20720p%20HDCAM%20900MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Edgar%20Allen%20Poe's%20Ligeia%20(2020)/Edgar.Allen.Poes.Ligeia.2020.WEBRip.x264-ION10.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Dolls%20(2019)%20720p%20BRRip%20550MB%20nItRo/Dolls%20(2019)%20720p%20BRRip%20550MB%20.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Dragonheart%20Vengeance%202020%20English%20720p%20BluRay%20x264/Dragonheart%20Vengeance%202020%20English%20720p%20BluRay%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Emma%20(2020)%20English%20720p%20WEB-DL%20x264%20ESubs/Emma%20(2020)%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Escape%20from%20Pretoria%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Escape%20from%20Pretoria%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/False%20Colors%20(2020)%20WEB-DL.720p/False%20Colors%20(2020)%20WEB-DL.720p.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Fast%20and%20Fierce%20Death%20Race%202020%20English%20720p%20HDRip%20800MB/Fast%20and%20Fierce%20Death%20Race%202020%20English%20720p%20HDRip%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Fatman%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Fatman%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Ford%20v%20Ferrari%20(2019)%20English%20WebRip%20720p%20900MB/Ford%20v%20Ferrari%20(2019)%20English%20WebRip%20720p%20900MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Force%20of%20Nature%20(2020)%20720pBluRay%20x264%20750MB/Force%20of%20Nature%20(2020)%20720pBluRay%20x264%20750MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Foxtrot%20Six%202020%20English%20720pHDRip%20800MB/Foxtrot%20Six%202020%20English%20720pHDRip%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Greenland%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Greenland%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Greyhound%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Greyhound%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Her%20Deadly%20Reflections%20(2020)/her.deadly.reflections.2020.720p.hdtv.x264-w4f.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Hard%20Kill%202020%20%5BEng%205.1ch%5D%20720p%20WEB%20HDRip%20750Mb%20ESub%20x264/Hard%20Kill%202020%20%5BEng%205.1ch%5D%20720p%20WEB%20HDRip%20750Mb%20ESub%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Harriet%20(2019)%20English%20720p%20WEB-DL%20x264/Harriet%20(2019)%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Heritage%20(2019)%20720p%20BluRay/Heritage%20(2019)%20720p%20BluRay.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Honest%20Thief%20(2020)%20English%20720p%20BluRay%20ESub%20x264%20750MB./Honest%20Thief%20(2020)%20English%20720p%20BluRay%20ESub%20x264%20750MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/IP%20Man%204%20(2019)%20English%20720p%20HDRip%20x264/IP%20Man%204%20(2019)%20English%20720p%20HDRip%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Ilana%20Glazer%20The%20Planet%20Is%20Burning%20(2020)/Ilana.Glazer.The.Planet.Is.Burning.2020.1080p.WEBRip.x264-RARBG.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Intersect%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Intersect%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Inmate%20Zero%20(2019)%20English%20HDRip%20720p/Inmate%20Zero%20(2019)%20English%20HDRip%20720p.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Infamous%202020%20720p%20WEBRip%20x264/Infamous%202020%20720p%20WEBRip%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Intrigo%3A%20Death%20of%20an%20Author%20(2019)%20720p%20WEB-DL%20675MB/Intrigo%20Death%20of%20an%20Author%20(2019)%20720p%20WEB-DL%20675MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/John%20Henry%20(2020)%20English%20720p%20HDRip%20800MB/John%20Henry%20(2020)%20English%20720p%20HDRip%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Jiu%20Jitsu%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Jiu%20Jitsu%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Killer%20Camera%20Monsters%20(2020)/Killer.Camera.Monsters.2020.WEBRip.x264-ION10.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Jumanji%3A%20The%20Next%20Level%20(2019)%20English%20720p%20HDRip%201GB./Jumanji%3A%20The%20Next%20Level%20(2019)%20English%20720p%20HDRip%201GB.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Little%20Women.(2019)%20English%20DVDScr%20x264/Little%20Women.(2019)%20English%20DVDScr%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Motherless%20Brooklyn%20(2019)%20English%20720p%20WEB-DL%20x264/Motherless%20Brooklyn%20(2019)%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Magic%20Kids%202020%20English%20720p%20WEB-DL%20x264%20850MB/Magic%20Kids%202020%20English%20720p%20WEB-DL%20x264%20850MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Midway%20(2019)%20English%20HDRip%20720p%20HDRip/Midway%20(2019)%20English%20HDRip%20720p%20HDRip.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/My%20Spy%202020%20Eng%20720p%20BRRip%20750Mb%20ESub%20x264/My%20Spy%202020%20Eng%20720p%20BRRip%20750Mb%20ESub%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Nations%20Fire%202020%20English%20HDRip%20720p/Nations%20Fire%202020%20%20English%20HDRip%20720p.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/One%20Night%20in%20Bangkok%202020%20English%20720p%20Web-DL%20800MB/One%20Night%20in%20Bangkok%202020%20English%20720p%20Web-DL%20800MB%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Palm%20Springs%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Palm%20Springs%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Red%20Snake%20(2019)%20English%20720p%20BRRip%20700MB/Red%20Snake%20(2019)%20English%20720p%20BRRip%20700MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Pandamonium%20(2020)%20English%20720p%20WEB-DL%20x264/Pandamonium%20(2020)%20English%20720p%20WEB-DL%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Robot%20Riot%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Robot%20Riot%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Rocket%20Hunter%20(2020)%20720p%20800MB/Rocket%20Hunter%20(2020)%20720p%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Rogue%202020%20English%20720p%20BluRay%20x264%20800MB/Rogue%202020%20English%20720p%20BluRay%20x264%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Sergio%202020%20Eng%20720p%20WEBRip%20950Mb%20ESub%20x264/Sergio%202020%20Eng%20720p%20WEBRip%20950Mb%20ESub%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Sonic%20the%20Hedgehog%20(2020)%20English%20720p%20800MB%20x264/Sonic%20the%20Hedgehog%20(2020)%20English%20720p%20800MB%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Spenser%20Confidential%20(2020)%20English%20720p%20WEB-DL%20x264/Spenser%20Confidential%20(2020)%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Sputnik%20(2020)%20Russian%20720p%20WEB-DL%20x264%20ESubs/Sputnik%20(2020)%20Russian%20720p%20WEB-DL%20x264%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Star%20Wars%20The%20Rise%20Of%20Skywalker%20(2020)%20English%20720p%20HDRip%20900MB/Star%20Wars%20The%20Rise%20Of%20Skywalker%20(2020)%20English%20720p%20HDRip%20900MB%20ESub.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Tenet%20(2020)%20English%20720p%20WEB%20HDRip%20x264%201.1Gb/Tenet%20(2020)%20English%20720p%20WEB%20HDRip%20x264%201.1Gb.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Survive%20The%20Night%202020%20Eng%20720p%20WEB%20HDRip%20700Mb%20ESub%20x264/Survive%20The%20Night%202020%20Eng%20720p%20WEB%20HDRip%20700Mb%20ESub%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Alpha%20Test%202020%20English%20720p%20HDRip%20800MB/The%20Alpha%20Test%202020%20English%20720p%20HDRip%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Battle%20of%20Jangsari%20(2019)%20BRRip%20675MB/The%20Battle%20of%20Jangsari%20(2019)%20BRRip%20675MB%20.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Blackout%20(2020)%201080p%20BluRay%201.6GB/The%20Blackout%20(2020)%201080p%20BluRay%201.6GB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Bet%20(2020)/The.Bet.2020.WEB-DL.x264-FGT.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Book%20of%20Nightmares%20(2020)%20English%20300MB%20HDRip/The%20Book%20of%20Nightmares%20(2020)%20English%20300MB%20HDRip%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Boy%202%202020%20English%20720p%20HC%20HDRip%20800MB/The%20Boy%202%202020%20English%20720p%20HC%20HDRip%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Call%20of%20the%20Wild%20(2020)%20720p%20800MB/The%20Call%20of%20the%20Wild%20(2020)%20720p%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Dark%20Kingdom%20(2019)%20720p%20800MB%20x264./The%20Dark%20Kingdom%20(2019)%20720p%20800MB%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Dawn%202020%20English%20720p%20HDRip%20800MB%20ESub/The%20Dawn%202020%20English%20720p%20HDRip%20800MB%20ESub.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Last%20Days%20Of%20American%20Crime%202020%20Eng%20720p%20WEB%20HDRip%201.1Gb%20ESub%20x264/The%20Last%20Days%20Of%20American%20Crime%202020%20Eng%20720p%20WEB%20HDRip%201.1Gb%20ESub%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Invisible%20Man%20(2020)%20English%20720p%20HDCAMRip%20x264%20950MB/The%20Invisible%20Man%20(2020)%20English%20720p%20HDCAMRip%20x264%20950MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Grudge%20(2020)/The.Grudge.2020.720p.HDCAM.900MB.getb8.x264-BONSAI.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Gentlemen%20(2020)/WwW.SeeHD.WS__The.Gentlemen.2020.720p.HDCAM.GETB8.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Lead%20(2020)/abducted.on.air.2020.hdtv.x264-w4f.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Last%20Full%20Measure%20(2019)%20720p%20WEB%20DL/The%20Last%20Full%20Measure%20(2019)%20720p%20WEB%20DL.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Legion%20(2020)%20WEB-DL%20720p/The%20Legion%20(2020)%20WEB-DL%20720p.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Man%20Standing%20Next%20(2020)%20720p%20HDRip%20900MB/The%20Man%20Standing%20Next%20(2020)%20720p%20HDRip%20900MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Mercenary%20(2020)%20English%20HDRip%20720p/The%20Mercenary%20(2020)%20English%20HDRip%20720p%20.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Warrior%20Queen%20Of%20Jhansi%202020%20Eng%20720p%20WEB%20HDRip%20800Mb/The%20Warrior%20Queen%20Of%20Jhansi%202020%20Eng%20720p%20WEB%20HDRip%20800Mb%20x264.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Outpost%202020%20English%20720p%20Web-DL%20950MB%20ESubs/The%20Outpost%202020%20English%20720p%20Web-DL%20950MB%20ESubs.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/The.Courier%20(2019)%20720p%20BluRay%20x264./The.Courier%20(2019)%20720p%20BluRay%20x264.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/The%20Rising%20Hawk%20(2019)%20720p%20800MB./The%20Rising%20Hawk%20(2019)%20720p%20800MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Underwater%20(2020)%20720p%20HDCAM%20900MB./Underwater%20(2020)%20720p%20HDCAM%20900MB.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Uncut%20Gems%20(2019)%20English%20720p%20WEB-DL/Uncut%20Gems%20(2019)%20English%20720p%20WEB-DL.mkv
-http://162.12.215.254/Data/Movies/Hollywood/2020/Winter%20in%20Vail%20(2020)/Winter%20in%20Vail%202020%20Hallmark%20720p%20HDTV%20X264%20Solar.mp4
-http://162.12.215.254/Data/Movies/Hollywood/2020/Wolf%20(2019)%20English%20720p%20WEB-DL%20x264./Wolf%20(2019)%20English%20720p%20WEB-DL%20x264.mkv
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13",Turning Red (2022)
-https://hive.gdriveplayer.link/HygpkIQcxwX63Fk_pB9v2Uyh0zbOjmMHi2_k0ZrD9Yc8iNRwLhPI5tl9ryOje5_8gPgYGLuQ31yuFRMbS5Lddg/I__wziPhby92mQI17cJAUfrzcEl5K1qLeTDjU7yqGZ8/720.m3u8
-
-
-
-
-
-
-
